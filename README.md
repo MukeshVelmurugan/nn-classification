@@ -177,23 +177,28 @@ print(le.inverse_transform(x_single_prediction))
 ### Output:
 ##### Dataset Information:
 ### df.head()
-![image](https://github.com/user-attachments/assets/0c56d9fc-4d76-4ef0-9e24-c8252ce0e231)
+![image](https://github.com/user-attachments/assets/b62901e0-3652-406f-8b45-7b16fdb0769e)
+
 ### df.info()   <br>
-![image](https://github.com/user-attachments/assets/2de58426-1bd8-47d4-9c21-80b931ddbe28)
+![image](https://github.com/user-attachments/assets/db5e1192-62aa-47f8-b49c-cdc012fe2aab)
+
  ### df.isnull().sum() <br>
- ![image](https://github.com/user-attachments/assets/44485c03-b2ca-4ad0-8e86-2cab14501665)
+ ![image](https://github.com/user-attachments/assets/8524b510-efb4-43f6-a9ab-3e9b4e2422c3)
 
 ##### Training Loss, Validation Loss Vs Iteration Plot:
-![image](https://github.com/user-attachments/assets/99e3d578-c1e6-441a-aba5-2367af1eec9a)
+![image](https://github.com/user-attachments/assets/7649cf96-6e9c-41d9-b7bd-65c1e3b25332)
+
 
 ##### Classification Report:
-![image](https://github.com/user-attachments/assets/ff646a0d-26ed-4acf-a2bd-c05535e24ea9)
+![image](https://github.com/user-attachments/assets/d42bc75a-b256-49b3-8541-17462d3e5acb)
+
 
 ##### Confusion Matrix:
-![image](https://github.com/user-attachments/assets/d9692517-18cd-43db-8f9a-5844c60b9b89)
-##### New Sample Data Prediction
+![image](https://github.com/user-attachments/assets/7284e93b-6536-4857-a99d-7e3d854ef0a2)
 
-![image](https://github.com/user-attachments/assets/8345a028-cabb-416d-8cc3-cd77e079bdee)
+##### New Sample Data Prediction
+![image](https://github.com/user-attachments/assets/b26ecf6f-c48d-4b88-9645-50d450e85e4c)
+
 
 
 
